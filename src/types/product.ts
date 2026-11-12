@@ -1,0 +1,20 @@
+export type Product = {
+  id: string;
+  slug: string;
+  name: string;
+  gender: 'hombre' | 'mujer';
+  category: string;
+  price: number | null;
+  priceIsDemo?: boolean;
+  images: string[];
+  imageIsIllustrative?: boolean;
+  imageIsGenerated?: boolean;
+  imageSource?: string;
+  description?: string;
+  sizes?: string[];
+  color?: string;
+  condition?: string;
+  featured?: boolean;
+  addedAt?: string;
+};
+export type CartItem = { id: string; quantity: number; size?: string };

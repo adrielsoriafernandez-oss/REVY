@@ -1,0 +1,506 @@
+[
+  {
+    "id": "01ea503cfd01",
+    "slug": "hombre-cinturon-de-cuero-marron-01ea",
+    "name": "Cinturón de cuero marrón",
+    "gender": "hombre",
+    "category": "Accesorios",
+    "price": 27,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/01ea503cfd01-belt-brown.webp"
+    ],
+    "sourcePath": "Hombre/Accesorios/Cinturón de cuero marrón",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "4176ef11d7ed",
+    "slug": "hombre-camisa-de-franela-a-cuadros-4176",
+    "name": "Camisa de franela a cuadros",
+    "gender": "hombre",
+    "category": "Camisas y camisetas",
+    "price": 29,
+    "priceIsDemo": true,
+    "images": [
+      "images/flannel-red.webp"
+    ],
+    "sourcePath": "Hombre/Camisas y camisetas/Camisa de franela a cuadros",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/z5QeZu0Judw",
+    "featured": false
+  },
+  {
+    "id": "f2349b525f14",
+    "slug": "hombre-camiseta-henley-blanca-vintage-f234",
+    "name": "Camiseta Henley blanca vintage",
+    "gender": "hombre",
+    "category": "Camisas y camisetas",
+    "price": 32,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/f2349b525f14-henley-white.webp"
+    ],
+    "sourcePath": "Hombre/Camisas y camisetas/Camiseta Henley blanca vintage",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "b5aba6b98800",
+    "slug": "hombre-chaqueta-de-ante-marron-chocolate-b5ab",
+    "name": "Chaqueta de ante marrón chocolate",
+    "gender": "hombre",
+    "category": "Chaquetas y abrigos",
+    "price": 68,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/b5aba6b98800-suede-chocolate.webp"
+    ],
+    "sourcePath": "Hombre/Chaquetas y abrigos/Chaqueta de ante marrón chocolate",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "d1d856307e86",
+    "slug": "hombre-chaqueta-de-cuero-bomber-marron-vintage-d1d8",
+    "name": "Chaqueta de cuero bomber marrón vintage",
+    "gender": "hombre",
+    "category": "Chaquetas y abrigos",
+    "price": 68,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/d1d856307e86-leather-bomber-brown.webp"
+    ],
+    "sourcePath": "Hombre/Chaquetas y abrigos/Chaqueta de cuero bomber marrón vintage",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": true
+  },
+  {
+    "id": "35dbbd83b41c",
+    "slug": "hombre-chaqueta-denim-con-borreguito-35db",
+    "name": "Chaqueta denim con borreguito",
+    "gender": "hombre",
+    "category": "Chaquetas y abrigos",
+    "price": 68,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/35dbbd83b41c-denim-sherpa.webp"
+    ],
+    "sourcePath": "Hombre/Chaquetas y abrigos/Chaqueta denim con borreguito",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "6ba509ab00f2",
+    "slug": "hombre-chaqueta-workwear-verde-oliva-6ba5",
+    "name": "Chaqueta workwear verde oliva",
+    "gender": "hombre",
+    "category": "Chaquetas y abrigos",
+    "price": 74,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/6ba509ab00f2-workwear-olive.webp"
+    ],
+    "sourcePath": "Hombre/Chaquetas y abrigos/Chaqueta workwear verde oliva",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "0996ddab9e50",
+    "slug": "hombre-cardigan-vintage-verde-bosque-0996",
+    "name": "Cárdigan vintage verde bosque",
+    "gender": "hombre",
+    "category": "Jerséis y punto",
+    "price": 38,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/0996ddab9e50-cardigan-forest.webp"
+    ],
+    "sourcePath": "Hombre/Jerséis y punto/Cárdigan vintage verde bosque",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "30299b5aeecc",
+    "slug": "hombre-jersey-de-lana-gruesa-crema-3029",
+    "name": "Jersey de lana gruesa crema",
+    "gender": "hombre",
+    "category": "Jerséis y punto",
+    "price": 35,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/30299b5aeecc-chunky-knit-cream.webp"
+    ],
+    "sourcePath": "Hombre/Jerséis y punto/Jersey de lana gruesa crema",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "b4e4f5f6b4a5",
+    "slug": "hombre-jersey-de-punto-trenzado-gris-b4e4",
+    "name": "Jersey de punto trenzado gris",
+    "gender": "hombre",
+    "category": "Jerséis y punto",
+    "price": 35,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/b4e4f5f6b4a5-cable-knit-grey.webp"
+    ],
+    "sourcePath": "Hombre/Jerséis y punto/Jersey de punto trenzado gris",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "5c2e244dcb06",
+    "slug": "hombre-pantalones-carpenter-beige-5c2e",
+    "name": "Pantalones carpenter beige",
+    "gender": "hombre",
+    "category": "Pantalones y denim",
+    "price": 38,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/5c2e244dcb06-carpenter-beige.webp"
+    ],
+    "sourcePath": "Hombre/Pantalones y denim/Pantalones carpenter beige",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "716fdb7bf7a1",
+    "slug": "hombre-pantalones-de-pana-marron-716f",
+    "name": "Pantalones de pana marrón",
+    "gender": "hombre",
+    "category": "Pantalones y denim",
+    "price": 41,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/716fdb7bf7a1-corduroy-brown.webp"
+    ],
+    "sourcePath": "Hombre/Pantalones y denim/Pantalones de pana marrón",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "fafc7ebf86d9",
+    "slug": "hombre-vaqueros-bootcut-azul-lavado-fafc",
+    "name": "Vaqueros bootcut azul lavado",
+    "gender": "hombre",
+    "category": "Pantalones y denim",
+    "price": 44,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/fafc7ebf86d9-bootcut-washed-blue.webp"
+    ],
+    "sourcePath": "Hombre/Pantalones y denim/Vaqueros bootcut azul lavado",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": true
+  },
+  {
+    "id": "9b8d783e16b7",
+    "slug": "hombre-vaqueros-flare-vintage-9b8d",
+    "name": "Vaqueros flare vintage",
+    "gender": "hombre",
+    "category": "Pantalones y denim",
+    "price": 47,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/9b8d783e16b7-flare-vintage-men.webp"
+    ],
+    "sourcePath": "Hombre/Pantalones y denim/Vaqueros flare vintage",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "f4d66dc30471",
+    "slug": "hombre-vaqueros-rectos-azul-oscuro-f4d6",
+    "name": "Vaqueros rectos azul oscuro",
+    "gender": "hombre",
+    "category": "Pantalones y denim",
+    "price": 38,
+    "priceIsDemo": true,
+    "images": [
+      "images/jeans-blue-studio.webp"
+    ],
+    "sourcePath": "Hombre/Pantalones y denim/Vaqueros rectos azul oscuro",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/YeGao3uk8kI",
+    "featured": false
+  },
+  {
+    "id": "4a7365be7667",
+    "slug": "mujer-bolso-de-cuero-marron-vintage-4a73",
+    "name": "Bolso de cuero marrón vintage",
+    "gender": "mujer",
+    "category": "Accesorios",
+    "price": 30,
+    "priceIsDemo": true,
+    "images": [
+      "images/bag-brown.webp"
+    ],
+    "sourcePath": "Mujer/Accesorios/Bolso de cuero marrón vintage",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/xzrJCS4grC4",
+    "featured": false
+  },
+  {
+    "id": "6fd84800d2ca",
+    "slug": "mujer-camisa-de-franela-roja-vintage-6fd8",
+    "name": "Camisa de franela roja vintage",
+    "gender": "mujer",
+    "category": "Camisas y camisetas",
+    "price": 35,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/6fd84800d2ca-flannel-red-women.webp"
+    ],
+    "sourcePath": "Mujer/Camisas y camisetas/Camisa de franela roja vintage",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": true
+  },
+  {
+    "id": "77621ad7c70d",
+    "slug": "mujer-camisa-western-blanca-7762",
+    "name": "Camisa western blanca",
+    "gender": "mujer",
+    "category": "Camisas y camisetas",
+    "price": 35,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/77621ad7c70d-western-white.webp"
+    ],
+    "sourcePath": "Mujer/Camisas y camisetas/Camisa western blanca",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "8acbb8a28e5e",
+    "slug": "mujer-camiseta-henley-ajustada-gris-8acb",
+    "name": "Camiseta Henley ajustada gris",
+    "gender": "mujer",
+    "category": "Camisas y camisetas",
+    "price": 32,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/8acbb8a28e5e-henley-fitted-grey.webp"
+    ],
+    "sourcePath": "Mujer/Camisas y camisetas/Camiseta Henley ajustada gris",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "9274e50d8bed",
+    "slug": "mujer-chaqueta-barn-verde-oliva-9274",
+    "name": "Chaqueta barn verde oliva",
+    "gender": "mujer",
+    "category": "Chaquetas y abrigos",
+    "price": 71,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/9274e50d8bed-barn-olive.webp"
+    ],
+    "sourcePath": "Mujer/Chaquetas y abrigos/Chaqueta barn verde oliva",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "549c48fc63ca",
+    "slug": "mujer-chaqueta-de-ante-marron-claro-549c",
+    "name": "Chaqueta de ante marrón claro",
+    "gender": "mujer",
+    "category": "Chaquetas y abrigos",
+    "price": 65,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/549c48fc63ca-suede-light-brown-women.webp"
+    ],
+    "sourcePath": "Mujer/Chaquetas y abrigos/Chaqueta de ante marrón claro",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": true
+  },
+  {
+    "id": "11df69c3c83f",
+    "slug": "mujer-chaqueta-de-cuero-marron-envejecido-11df",
+    "name": "Chaqueta de cuero marrón envejecido",
+    "gender": "mujer",
+    "category": "Chaquetas y abrigos",
+    "price": 68,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/11df69c3c83f-leather-aged-brown-women.webp"
+    ],
+    "sourcePath": "Mujer/Chaquetas y abrigos/Chaqueta de cuero marrón envejecido",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "17affe5bfd89",
+    "slug": "mujer-chaqueta-de-cuero-negra-oversized-17af",
+    "name": "Chaqueta de cuero negra oversized",
+    "gender": "mujer",
+    "category": "Chaquetas y abrigos",
+    "price": 74,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/17affe5bfd89-leather-oversized-black-women.webp"
+    ],
+    "sourcePath": "Mujer/Chaquetas y abrigos/Chaqueta de cuero negra oversized",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "230d577fe2ec",
+    "slug": "mujer-cardigan-de-punto-color-crema-230d",
+    "name": "Cárdigan de punto color crema",
+    "gender": "mujer",
+    "category": "Jerséis y punto",
+    "price": 44,
+    "priceIsDemo": true,
+    "images": [
+      "images/cardigan-cream.webp"
+    ],
+    "sourcePath": "Mujer/Jerséis y punto/Cárdigan de punto color crema",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/y81dSVwPW0E",
+    "featured": false
+  },
+  {
+    "id": "9805daa6a8d0",
+    "slug": "mujer-jersey-de-cuello-alto-beige-9805",
+    "name": "Jersey de cuello alto beige",
+    "gender": "mujer",
+    "category": "Jerséis y punto",
+    "price": 35,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/9805daa6a8d0-turtleneck-beige-women.webp"
+    ],
+    "sourcePath": "Mujer/Jerséis y punto/Jersey de cuello alto beige",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "afd8e54c439b",
+    "slug": "mujer-pantalones-de-pana-flare-marrones-afd8",
+    "name": "Pantalones de pana flare marrones",
+    "gender": "mujer",
+    "category": "Pantalones y denim",
+    "price": 47,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/afd8e54c439b-corduroy-flare-brown.webp"
+    ],
+    "sourcePath": "Mujer/Pantalones y denim/Pantalones de pana flare marrones",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "0daf09c11173",
+    "slug": "mujer-vaqueros-bootcut-azul-medio-0daf",
+    "name": "Vaqueros bootcut azul medio",
+    "gender": "mujer",
+    "category": "Pantalones y denim",
+    "price": 41,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/0daf09c11173-bootcut-medium-blue-women.webp"
+    ],
+    "sourcePath": "Mujer/Pantalones y denim/Vaqueros bootcut azul medio",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "f050b986fed2",
+    "slug": "mujer-vaqueros-bootcut-negros-f050",
+    "name": "Vaqueros bootcut negros",
+    "gender": "mujer",
+    "category": "Pantalones y denim",
+    "price": 38,
+    "priceIsDemo": true,
+    "images": [
+      "images/generated/f050b986fed2-bootcut-black.webp"
+    ],
+    "sourcePath": "Mujer/Pantalones y denim/Vaqueros bootcut negros",
+    "imageIsIllustrative": true,
+    "imageIsGenerated": true,
+    "imageSource": "Imagen ilustrativa generada con IA para REVY",
+    "featured": false
+  },
+  {
+    "id": "c8c4d9b9ee86",
+    "slug": "mujer-vaqueros-flare-azul-claro-c8c4",
+    "name": "Vaqueros flare azul claro",
+    "gender": "mujer",
+    "category": "Pantalones y denim",
+    "price": 38,
+    "priceIsDemo": true,
+    "images": [
+      "images/jeans-flare-blue.webp"
+    ],
+    "sourcePath": "Mujer/Pantalones y denim/Vaqueros flare azul claro",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/wHhBKWjFjeo",
+    "featured": false
+  },
+  {
+    "id": "b9b9a76e2d35",
+    "slug": "mujer-vaqueros-rectos-vintage-b9b9",
+    "name": "Vaqueros rectos vintage",
+    "gender": "mujer",
+    "category": "Pantalones y denim",
+    "price": 41,
+    "priceIsDemo": true,
+    "images": [
+      "images/jeans-blue-studio.webp"
+    ],
+    "sourcePath": "Mujer/Pantalones y denim/Vaqueros rectos vintage",
+    "imageIsIllustrative": true,
+    "imageSource": "https://unsplash.com/photos/YeGao3uk8kI",
+    "featured": false
+  }
+]
